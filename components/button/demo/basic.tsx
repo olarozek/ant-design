@@ -3,7 +3,7 @@ import { Button, Space } from 'antd';
 
 const App: React.FC = () => (
   <Space wrap>
-    <Button type="primary">Primary Button</Button>
+    <Button type="primary">Customer</Button>
     <Button>Default Button</Button>
     <Button type="dashed">Dashed Button</Button>
     <Button type="text">Text Button</Button>
